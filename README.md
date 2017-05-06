@@ -4,7 +4,7 @@ Each restaurant annotations includes the restaurant name, an image and its coord
 Each map annotation also displays a transit icon, which will open the iOS Map app with a direction mode (transit) and the restaurant location to automatically the route to the user.
 
 ## Screenshot
-<img src="https://github.com/jeremybroutin/Restaurants-Transit/restaurants_transit_screenshot" width="200px">
+<img src="https://github.com/jeremybroutin/Restaurants-Transit/restaurants_transit_screenshot.png" width="200px">
 
 ## Credit
 This app was originally created for a tutorial purpose on [Sweettutos.com][1].  
